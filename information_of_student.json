@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "0",
+      "name": "Shayne Meian Ejercito",
+      "age": 21,
+      "email": "shayne_ejercito@yahoo.com",
+      "isEnrolled": true
+    }
+    ],
+  "theinfo": [
+      {
+        "student_id": "2001105070",
+        "student_section": "3b",
+        "student_year": "3rd year"
+      }
+      ]
+}
