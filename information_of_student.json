@@ -1,18 +1,22 @@
 {
   "students": [
     {
-      "id": "0",
       "name": "Shayne Meian Ejercito",
       "age": 21,
       "email": "shayne_ejercito@yahoo.com",
-      "isEnrolled": true
+      "isEnrolled": true,
+      "student_id": 2001105070,
+      "student_section": "3b",
+      "student_year": "3rd year"
+    },
+    {
+      "name": "Ejercito, Shayne Meian",
+      "age": 21,
+      "email": "shayne_ejercito@gmail.com",
+      "isEnrolled": true,
+      "student_id": 2001105070,
+      "student_section": "3b",
+      "student_year": "3rd year"
     }
-    ],
-  "theinfo": [
-      {
-        "student_id": "2001105070",
-        "student_section": "3b",
-        "student_year": "3rd year"
-      }
-      ]
+    ]
 }
